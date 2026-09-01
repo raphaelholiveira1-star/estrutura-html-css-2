@@ -1,7 +1,7 @@
 ## Estrutura Básica de HTML5 e CSS3
 professor: Jansen K Cara
 Turma: DS1A
-Aluno:  Anna Paula
+Aluno:  Nome do aluno
 
 ### Objetivo
 Desenvolver o nosso conhecimento sw HTML e CSS
@@ -39,7 +39,7 @@ Desenvolver o nosso conhecimento sw HTML e CSS
         </section>
     </main>
     <footer>
-        <p>$copy; 2026 Kemily. Todos os direitos reservados</p>
+        <p>$copy; 2026 Jansen. Todos os direitos reservados</p>
     </footer>
 </body>
 
