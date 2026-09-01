@@ -35,7 +35,7 @@ Desenvolver o nosso conhecimento sw HTML e CSS
     <main>
         <section id="Sobre">
             <h2>Sobre mim</h2>
-            <p>Olá! Meu nome é Kemily de Almeida Silva, e sou um estudante que CSS e HTML</p>
+            <p>Olá! Meu nome é Jansen, e sou um estudante que CSS e HTML</p>
         </section>
     </main>
     <footer>
